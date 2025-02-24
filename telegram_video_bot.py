@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import yt_dlp
 
 # Replace with your Telegram Bot Token from BotFather
-TOKEN = "8078385395:AAFM-CnO3zRuhHFgT1uwcfJGsyUfCAt1xaM"
+TOKEN = "8078385395:AAFJh8qI50SsdbRolhXprrtQFfx-jCpg0KA"
 
 # Function to handle the /start command
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
